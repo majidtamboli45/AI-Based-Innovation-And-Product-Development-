@@ -29,3 +29,5 @@ Analyze social media sentiment trends using AI to gain insights into financial m
 
 ## 10. AI Deployment Environment Comparison
 Study and compare AI model deployment across cloud, on-premise, and edge environments focusing on latency, scalability, and cost.
+
+I Expored many Events
